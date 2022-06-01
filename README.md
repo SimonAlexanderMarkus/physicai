@@ -1,11 +1,16 @@
 PhysicAI
 ==============================
+### Identify, analyze and visualize physical-mechanical processes in videos.
 
-DSR Batch 30 portfolio project: Identify, analyze and visualize physical-mechanical processes in videos.
+This project is the completion of my Data Scientist training at the "Data Science Retreat – Batch 30". (More information about the excellent opportunities to become a Data Scientist can be found here: https://datascienceretreat.com/projects)
+
+
 
 Summary
 ------------
-Existing software for educational purposes in mechanics lack of one crutial feature: there is no (state of the art) object detection. Teachers need to mark the position for each image by hand, which is very time-consuming and tedious. 
+Existing software for teaching purposes in mechanics has a crucial shortcoming: there is no object recognition (state of the art). Teachers have to mark the position for each image by hand, which is very time-consuming and tedious. 
+
+How great would it be if you could just make a video of a physical event and an app would instantly present trajectory, velocity and force vectors, on top of that a table of values for further analysis in physics math or sports class?!
 
 There are already many tools for object identification and object tracking in videos. There are also methods for trajectory prediction and physics simulation. I want to use these tools together with machine learning algorithms to analyse and visiualize the underlying physical laws (equations of motions) by extracting characteristics like position, velocity, acceleration, spin, impulse, energy, friction and forces.
 
