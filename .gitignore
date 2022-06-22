@@ -90,3 +90,6 @@ target/
 
 ## Exclude References
 /references/
+
+## Exclude Models
+/models/
